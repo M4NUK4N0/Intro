@@ -10,5 +10,5 @@ st.write("Facilmente puedo realizar backend y frontend.")
 image = Image.open("Musiquita.gif")
 st.image(image,caption = "Interfaces Multimodales")
 
-texto = st.text_input("Escrive algo" , "Este es mi texto")
+texto = st.text_input("Escribe algo" , "Este es mi texto")
 st.write("El texto escrito es" , texto)
